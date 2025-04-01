@@ -20,4 +20,5 @@ Conditional Random Fields (CRF) (For sequential sentence classification)
 
 **Results:**
 ![image](https://github.com/user-attachments/assets/9d8dbdfa-94ae-440d-bf1e-09824a4c6d99)
-![Uploading image.png…]()
+![Screenshot 2025-03-25 225736](https://github.com/user-attachments/assets/89f2802d-f079-4c80-937a-e01164eed1c5)
+
